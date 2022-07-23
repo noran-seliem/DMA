@@ -1,0 +1,3 @@
+_7Segment.c:12:6:Segment_Init	24	static
+_7Segment.c:22:6:Segment_Display	40	static
+_7Segment.c:41:6:Segment_TurnOff	16	static
